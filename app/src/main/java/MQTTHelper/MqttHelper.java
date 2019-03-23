@@ -21,7 +21,7 @@ public class MqttHelper {
     final String clientId = "xxxxxx";
     final String subscriptionTopic = "sensor/+";
 
-    final String username = "xxxxxx";
+    final String username = "xxxxxxxx";
     final String password = "yyyyyy";
 
     public MqttHelper(Context context){
